@@ -1,3 +1,4 @@
+package FundamentalOfJava;
 public class Variable {
     public static void main(String[] args) {
         int age;

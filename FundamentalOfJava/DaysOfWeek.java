@@ -1,3 +1,4 @@
+package FundamentalOfJava;
 import java.util.*;
 public class DaysOfWeek {
     public static void main(String[] args) {

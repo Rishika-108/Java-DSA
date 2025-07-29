@@ -1,3 +1,4 @@
+package FundamentalOfJava;
 import java.util.Scanner;
 
 public class Even {

@@ -1,3 +1,4 @@
+package FundamentalOfJava;
 public class Pattern8 {
     public static void main(String[] args) {
         for (int i = 5; i  >= 1; i--) { //By doing this, it changes rows to columns
