@@ -1,3 +1,5 @@
+package Functions;
+
 public class Factorial2 {
     public static void fact (int i, int n, int fact) {
 

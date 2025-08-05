@@ -1,3 +1,5 @@
+package Functions;
+
 // Stack height = n
 public class xRaiseToN {
     public static int x (int x, int n) {

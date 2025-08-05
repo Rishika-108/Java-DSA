@@ -1,3 +1,5 @@
+package Functions;
+
 
 public class PrintNum {
     public static void printNum (int n) {

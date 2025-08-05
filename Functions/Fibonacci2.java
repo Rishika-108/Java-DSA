@@ -1,3 +1,5 @@
+package Functions;
+
 public class Fibonacci2 {
     public static void fibo (int a, int b,int n) {
         if (n == 0) {

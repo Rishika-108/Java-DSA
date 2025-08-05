@@ -1,3 +1,5 @@
+package Functions;
+
 //Stack Height = log n
 public class PowerN {
     public static int power(int x, int n) {
