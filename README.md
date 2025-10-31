@@ -8,6 +8,7 @@ This repo was intended for learning, practicing, and building algorithmic & prob
 
 ## 📂 Repository Structure
 
+```
 Java-DSA/
 ├── Arrays/
 ├── BinarySearchTree/
@@ -24,7 +25,7 @@ Java-DSA/
 ├── Strings/
 ├── Trie/
 └── README.md
-
+```
 
 - **Arrays/** — Array-based problems & solutions  
 - **BinaryTree/** & **BinarySearchTree/** — Tree data structures & related operations  
@@ -111,5 +112,3 @@ This project can be licensed under **MIT License**. Add a `LICENSE` file in the 
 
 Rishika-108
 [GitHub Profile](https://github.com/Rishika-108)
-
-```
