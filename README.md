@@ -112,3 +112,23 @@ This project can be licensed under **MIT License**. Add a `LICENSE` file in the 
 
 Rishika-108
 [GitHub Profile](https://github.com/Rishika-108)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
+<!---LeetCode Topics End-->
