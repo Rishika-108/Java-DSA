@@ -138,6 +138,7 @@ Rishika-108
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,5 +148,6 @@ Rishika-108
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishika-108/Java-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 <!---LeetCode Topics End-->
