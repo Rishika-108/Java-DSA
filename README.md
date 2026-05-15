@@ -136,6 +136,7 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -148,6 +149,7 @@ Rishika-108
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Rishika-108/Java-DSA/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -161,4 +163,8 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0001-two-sum/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
