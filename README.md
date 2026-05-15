@@ -150,6 +150,7 @@ Rishika-108
 | [0136-single-number](https://github.com/Rishika-108/Java-DSA/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Rishika-108/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishika-108/Java-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
