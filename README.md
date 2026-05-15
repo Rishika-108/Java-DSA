@@ -153,6 +153,7 @@ Rishika-108
 | [0053-maximum-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Rishika-108/Java-DSA/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rishika-108/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -165,12 +166,19 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
