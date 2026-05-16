@@ -160,6 +160,7 @@ Rishika-108
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rishika-108/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishika-108/Java-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
@@ -171,6 +172,7 @@ Rishika-108
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +191,8 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
