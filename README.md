@@ -125,6 +125,7 @@ Rishika-108
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishika-108/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ Rishika-108
 | [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishika-108/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Rishika-108/Java-DSA/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
