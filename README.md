@@ -118,6 +118,7 @@ Rishika-108
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Rishika-108/Java-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -153,6 +154,7 @@ Rishika-108
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/Rishika-108/Java-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishika-108/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -201,4 +203,8 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Rishika-108/Java-DSA/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
