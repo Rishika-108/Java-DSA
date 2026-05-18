@@ -175,6 +175,7 @@ Rishika-108
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rishika-108/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/Rishika-108/Java-DSA/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishika-108/Java-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
@@ -224,4 +225,8 @@ Rishika-108
 | [0048-rotate-image](https://github.com/Rishika-108/Java-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rishika-108/Java-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Rishika-108/Java-DSA/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
