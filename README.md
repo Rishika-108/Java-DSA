@@ -183,6 +183,7 @@ Rishika-108
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Rishika-108/Java-DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Rishika-108/Java-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishika-108/Java-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
@@ -243,4 +244,5 @@ Rishika-108
 | [0162-find-peak-element](https://github.com/Rishika-108/Java-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Rishika-108/Java-DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Rishika-108/Java-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
