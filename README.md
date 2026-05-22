@@ -186,6 +186,7 @@ Rishika-108
 | [0875-koko-eating-bananas](https://github.com/Rishika-108/Java-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishika-108/Java-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rishika-108/Java-DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rishika-108/Java-DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishika-108/Java-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
@@ -249,4 +250,5 @@ Rishika-108
 | [0875-koko-eating-bananas](https://github.com/Rishika-108/Java-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishika-108/Java-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rishika-108/Java-DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rishika-108/Java-DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 <!---LeetCode Topics End-->
