@@ -133,6 +133,7 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Rishika-108
 | [0141-linked-list-cycle](https://github.com/Rishika-108/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -280,6 +282,11 @@ Rishika-108
 | [0141-linked-list-cycle](https://github.com/Rishika-108/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
