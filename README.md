@@ -151,6 +151,7 @@ Rishika-108
 | [0125-valid-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Rishika-108/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Rishika-108/Java-DSA/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -224,12 +225,14 @@ Rishika-108
 | [0056-merge-intervals](https://github.com/Rishika-108/Java-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Rishika-108/Java-DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0229-majority-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/Rishika-108/Java-DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Counting
@@ -284,6 +287,7 @@ Rishika-108
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishika-108/Java-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rishika-108/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Rishika-108/Java-DSA/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -294,4 +298,8 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Rishika-108/Java-DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
