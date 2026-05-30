@@ -120,6 +120,7 @@ Rishika-108
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rishika-108/Java-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Rishika-108/Java-DSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Rishika-108/Java-DSA/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -135,6 +136,7 @@ Rishika-108
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rishika-108/Java-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishika-108/Java-DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/Rishika-108/Java-DSA/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rishika-108/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
