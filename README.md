@@ -126,6 +126,7 @@ Rishika-108
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Rishika-108/Java-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishika-108/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -168,6 +169,7 @@ Rishika-108
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Rishika-108/Java-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -324,6 +326,7 @@ Rishika-108
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Rishika-108/Java-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0090-subsets-ii/) | Medium |
