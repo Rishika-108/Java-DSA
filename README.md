@@ -197,6 +197,7 @@ Rishika-108
 | [0162-find-peak-element](https://github.com/Rishika-108/Java-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rishika-108/Java-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Rishika-108/Java-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -323,4 +324,5 @@ Rishika-108
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Rishika-108/Java-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
