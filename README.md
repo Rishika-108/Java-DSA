@@ -180,6 +180,7 @@ Rishika-108
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Rishika-108/Java-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Rishika-108/Java-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rishika-108/Java-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rishika-108/Java-DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -321,4 +322,5 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
