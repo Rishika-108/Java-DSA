@@ -10,8 +10,7 @@ class Solution {
         '9', new char[]{'w', 'x', 'y', 'z'}
     );
     private void isValidCombo(String digits, List<String> result, String s, int index){
-       if(index > digits.length()) return;
-       if(digits.length() == s.length()) {
+       if(digits.length() == index) {
         result.add(s);
         return;
        }
