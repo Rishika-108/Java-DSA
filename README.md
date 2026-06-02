@@ -171,6 +171,7 @@ Rishika-108
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishika-108/Java-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Rishika-108/Java-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ Rishika-108
 | [0073-set-matrix-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rishika-108/Java-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Rishika-108/Java-DSA/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rishika-108/Java-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -275,6 +277,7 @@ Rishika-108
 | [0054-spiral-matrix](https://github.com/Rishika-108/Java-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rishika-108/Java-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -332,6 +335,11 @@ Rishika-108
 | [0022-generate-parentheses](https://github.com/Rishika-108/Java-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Rishika-108/Java-DSA/tree/main/0216-combination-sum-iii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
