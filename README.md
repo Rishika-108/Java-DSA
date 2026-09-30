@@ -215,6 +215,7 @@ Rishika-108
 | [0875-koko-eating-bananas](https://github.com/Rishika-108/Java-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishika-108/Java-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rishika-108/Java-DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishika-108/Java-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rishika-108/Java-DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Rishika-108/Java-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishika-108/Java-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -270,6 +271,7 @@ Rishika-108
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishika-108/Java-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,4 +344,8 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishika-108/Java-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
