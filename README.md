@@ -213,6 +213,7 @@ Rishika-108
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Rishika-108/Java-DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rishika-108/Java-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Rishika-108/Java-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishika-108/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishika-108/Java-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rishika-108/Java-DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -239,6 +240,7 @@ Rishika-108
 | [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Rishika-108/Java-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ Rishika-108
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/Rishika-108/Java-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishika-108/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishika-108/Java-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
