@@ -182,6 +182,7 @@ Rishika-108
 | [0567-permutation-in-string](https://github.com/Rishika-108/Java-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Rishika-108/Java-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishika-108/Java-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3136-valid-word](https://github.com/Rishika-108/Java-DSA/tree/main/3136-valid-word/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
