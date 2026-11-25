@@ -164,6 +164,7 @@ Rishika-108
 | [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/Rishika-108/Java-DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Rishika-108/Java-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -179,6 +180,7 @@ Rishika-108
 | [0409-longest-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishika-108/Java-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishika-108/Java-DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Rishika-108/Java-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishika-108/Java-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -281,6 +283,7 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Rishika-108/Java-DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Rishika-108/Java-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishika-108/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -345,6 +348,7 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rishika-108/Java-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Rishika-108/Java-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
