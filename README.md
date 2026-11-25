@@ -175,6 +175,7 @@ Rishika-108
 | [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Rishika-108/Java-DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rishika-108/Java-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +245,7 @@ Rishika-108
 | [0169-majority-element](https://github.com/Rishika-108/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Rishika-108/Java-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishika-108/Java-DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rishika-108/Java-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rishika-108/Java-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sorting
@@ -358,6 +360,7 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishika-108/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rishika-108/Java-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Rishika-108/Java-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rishika-108/Java-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishika-108/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
