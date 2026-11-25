@@ -169,6 +169,7 @@ Rishika-108
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishika-108/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishika-108/Java-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Rishika-108/Java-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Rishika-108/Java-DSA/tree/main/0079-word-search/) | Medium |
@@ -233,6 +234,7 @@ Rishika-108
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishika-108/Java-DSA/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishika-108/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishika-108/Java-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rishika-108/Java-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Rishika-108/Java-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -355,6 +357,7 @@ Rishika-108
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishika-108/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Rishika-108/Java-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rishika-108/Java-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishika-108/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
