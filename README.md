@@ -180,6 +180,7 @@ Rishika-108
 | [0409-longest-palindrome](https://github.com/Rishika-108/Java-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishika-108/Java-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishika-108/Java-DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Rishika-108/Java-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Rishika-108/Java-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishika-108/Java-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3136-valid-word](https://github.com/Rishika-108/Java-DSA/tree/main/3136-valid-word/) | Easy |
@@ -256,6 +257,7 @@ Rishika-108
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishika-108/Java-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishika-108/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishika-108/Java-DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Rishika-108/Java-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rishika-108/Java-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
